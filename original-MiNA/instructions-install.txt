@@ -1,0 +1,8 @@
+https://github.com/StuartLab/MiNA/issues/24#issuecomment-1297532625
+
+Download the latest version of FIJI --> https://fiji.sc/
+Download MINA Analyze 2.0.0 --> https://github.com/StuartLab/MiNA/archive/refs/tags/2.0.0.zip
+Follow the installation instructions:
+
+plugins>macros>instal> navigate to NiNA.ijm in the src folder of unzipped archive
+then run via plugins>macros. 
